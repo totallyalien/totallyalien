@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tamizh Iniyan G
 =======================================================================================================================================
 
-Python Developer
+Flutter Developer
 -----------------
 
 College student with a motivated attitude and a variety of powerful skills.
@@ -9,7 +9,7 @@ College student with a motivated attitude and a variety of powerful skills.
 * 🌍  I'm based in Hyderabad, India
 * 🖥️  See my portfolio at [nhsss](http://www.google.co.in/search?q=sketch+software&btnK=Google+Search&source=hp&ei=_OXTY7vmCMH9-QbFiKewAw&iflsig=AK50M_UAAAAAY9P0DIqQKYDy9DqKGn8eKDbPXSnNdZR0&oq=proteus&gs_lcp=Cgdnd3Mtd2l6EAEYAjIKCAAQsQMQgwEQQzIHCAAQsQMQQzIHCAAQsQMQQzIKCAAQsQMQgwEQQzIHCAAQsQMQQzIECAAQQzIECAAQQzIECAAQQzIFCAAQgAQyBAgAEEM6CggAEOoCELQCEEM6EAguEMcBENEDEOoCELQCEEM6FAgAEOoCELQCEIoDELcDENQDEOUCOgsIABCABBCxAxCDAToLCC4QgwEQsQMQgAQ6DQguELEDEIMBENQCEEM6EAguELEDEIMBEMcBENEDEEM6CAgAELEDEIMBOggILhCABBCxAzoICAAQgAQQsQM6BwguELEDEENQvAlYvDlgnU9oAnAAeACAAasBiAGYB5IBAzUuM5gBAKABAbABCg&sclient=gws-wiz)
 * ✉️  You can contact me at [trex49001@gmail.com](mailto:trex49001@gmail.com)
-* 🧠  I'm learning MongoDB
+* 🧠  I'm learning Kotlin
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am interested in financial market.
 
